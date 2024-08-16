@@ -1,0 +1,11 @@
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\bin\Debug\LoginForm.exe.config
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\bin\Debug\LoginForm.exe
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\bin\Debug\LoginForm.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.csproj.SuggestedBindingRedirects.cache
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.frmLogin.resources
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.exe
+E:\BAITAP VISUAL\QuanLyBanHang\LoginForm\obj\Debug\LoginForm.pdb

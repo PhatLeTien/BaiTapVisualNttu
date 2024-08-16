@@ -1,0 +1,13 @@
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\BAITAP VISUAL\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb

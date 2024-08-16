@@ -1,0 +1,11 @@
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\bin\Debug\BLL.dll
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\bin\Debug\BLL.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\bin\Debug\DAL.dll
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\bin\Debug\DTO.dll
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\bin\Debug\DAL.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\bin\Debug\DTO.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\obj\Debug\BLL.dll
+E:\BAITAP VISUAL\QuanLyBanHang\BLL\obj\Debug\BLL.pdb

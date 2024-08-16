@@ -1,0 +1,6 @@
+E:\BAITAP VISUAL\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+E:\BAITAP VISUAL\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\BAITAP VISUAL\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\BAITAP VISUAL\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+E:\BAITAP VISUAL\QuanLyBanHang\DTO\obj\Debug\DTO.pdb

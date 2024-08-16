@@ -1,0 +1,9 @@
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\bin\Debug\DTO.dll
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\bin\Debug\DTO.pdb
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+E:\BAITAP VISUAL\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
